@@ -28,8 +28,8 @@ This document outlines the official schedule for the SSCS Chipathon 2025 event.
 ### Phase 3: Design and Simulation
 | Week | Date | Event | Review Focus | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|--------------|:-----------:|:--------:|:------:|
-| Week 31 | Aug 01, 2025 | **Schematic Review** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
-| Week 32 | Aug 08, 2025 | **Simulation Review (blocks)** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
+| Week 31 | Aug 01, 2025 | **Schematic Review** 👥 | - | [Watch](https://us06web.zoom.us/rec/share/p0jE_9SbLtquE3jgz5f4MlLN4MUIzmOE0zdEOBf3kgjg-9m0GbItzKdzfc_UzO-g.mLbegz4apQ4PFxjQ) | [View](https://docs.google.com/presentation/d/e/2PACX-1vRMquxfD6DVTjLuMtk1UB2YeQHqgORe_Cv_0tz7r5TTU9yvgOa6I1UoYuCqmu6ztw/pub) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSfdOuIBfAT_cqEVqi8wshiHRz4GPTJKxGNvxMj4-cpRXGiltg/viewform?usp=dialog) |
+| Week 32 | Aug 08, 2025 | **Schematic Review** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
 | Week 33 | Aug 15, 2025 | **Simulation Review (top level)** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
 |  | Aug 16, 2025 | **READiness Check & Go/No-go Decision** |  |  |  |  |
 
