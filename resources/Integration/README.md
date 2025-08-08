@@ -10,15 +10,11 @@ The [process](https://gf180mcu-pdk.readthedocs.io/en/latest/physical_verificatio
 | ------------- | ------------- |
 | 0.18um 3.3V/(5V) 6V (with MIM) | LV=3.3V, HV=5V or 6V |
 
-Regarding the MIM caps there are 2 options as defined [here](https://gf180mcu-pdk.readthedocs.io/en/latest/physical_verification/design_manual/drm_02.html)
+Regarding the MIM caps, the option used is option B, which is placed between Top Metal and Top Metal-1 layers [here](https://gf180mcu-pdk.readthedocs.io/en/latest/physical_verification/design_manual/drm_02.html)
 
 - MIM option A is between 3 and 2 and option B is TM/TM-1
 
-The equivalent cross-sectional views for option [A](https://gf180mcu-pdk.readthedocs.io/en/latest/_images/MIM1.png) and [B](https://gf180mcu-pdk.readthedocs.io/en/latest/physical_verification/design_manual/drm_10_4_2.html) are presented below.
-
-<p align="center">
-   <img src="./img/MIM_A.png" width="600" />
-</p>  
+The equivalent cross-sectional view for option [B](https://gf180mcu-pdk.readthedocs.io/en/latest/physical_verification/design_manual/drm_10_4_2.html) is presented below.
 
 <p align="center">
    <img src="./img/MIM_B.png" width="600" />
@@ -36,6 +32,7 @@ The table below presents some information associates with process options for th
 | MIM Option | Type B (TM-1 / TM) |
 | MIM Density | 2.0fF |
 | Resistor HRES | 1k |
+| Deep nwell transistor option| It is available |
 
 Based on the information above and [the Maximum Line Current Density per Drawn Width](https://gf180mcu-pdk.readthedocs.io/en/latest/physical_verification/design_manual/drm_14_2.html), the Maximum Current Density (mA/um) for the metal layers is presented in the next table. The unidirectional current is defined as the steady value of direct current or the time average value of current always pulsed in the same direction. Whereas the bi-directional current is defined as the value of the current when averaged over one direction with the higher peak current (Ip maximum). The lower peak in the opposite direction is neglected.
 
