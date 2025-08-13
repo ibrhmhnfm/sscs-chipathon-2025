@@ -1,0 +1,1 @@
+For better organization, please find here a [template for the padframe](https://docs.google.com/presentation/d/1banxCIOqAh-Q1bHQZCd3pS0ioIPygH4U7oJaOUsFYaw/edit?usp=sharing). Each chip will need to design its own padframe based on the requirements.
