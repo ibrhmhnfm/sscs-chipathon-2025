@@ -181,6 +181,8 @@ All the files associated with including the pads models in Xschem simulation are
 
 In this folder, you will get access to AC, DC, and transient simulation of the analog pad (gf180mcu_fd_io__asig_5p0) and also transient simulation for one of the digital pads (gf180mcu_fd_io__bi_t). Also there is a simulation for some tiehigh and tielow cells that need to be used to connect nets (wires) to a constant logic '1' or logic '0' respectively, particularly when direct connection to VDD/VSS is not recommended due to noise sensitivity. These cells help prevent issues like unintentional transistor activation from power/ground bounce. The output of the tiehigh and tielow cells will be connected to the different pins of **gf180mcu_fd_io__bi_t** to configure it as a bidirectional cell, input-enabled cell or output-enabled cell. This was previously mentioned on the *Detailed connection for Digital output pin configuration* and *Detailed connection of the signal rails* sections.
 
+The reference information of this section was extracted from [openfasoc-tapeouts](https://github.com/idea-fasoc/openfasoc-tapeouts/tree/main/gf180mcu_padframe) and [Bracolin](https://github.com/gabrielmaranhao/Bracolin/tree/main/padframe/IO_Cells_test) repositories.
+
 ### Custom ESD cell for Low-Current applications
 Some of the building blocks in the Bracolin die lacked ESD protection due to leakage. The leakage current of the ESD protection was too high for the design. PEX Simulations in Magic and commercial tool demonstrated that the value of the leaking current was approximately 200pA.
 
