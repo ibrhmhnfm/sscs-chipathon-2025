@@ -31,7 +31,7 @@ The table below presents some information associates with process options for th
 | Top Metal | 11kA |
 | MIM Option | Type B (TM-1 / TM) |
 | MIM Density | 2.0fF |
-| Resistor HRES | 1k |
+| Resistor HRES | 1k (the model to be used is: ppolyf_u_1k) |
 | Deep nwell transistor option| It is available |
 
 Based on the information above and [the Maximum Line Current Density per Drawn Width](https://gf180mcu-pdk.readthedocs.io/en/latest/physical_verification/design_manual/drm_14_2.html), the Maximum Current Density (mA/um) for the metal layers is presented in the next table. The unidirectional current is defined as the steady value of direct current or the time average value of current always pulsed in the same direction. Whereas the bi-directional current is defined as the value of the current when averaged over one direction with the higher peak current (Ip maximum). The lower peak in the opposite direction is neglected.
