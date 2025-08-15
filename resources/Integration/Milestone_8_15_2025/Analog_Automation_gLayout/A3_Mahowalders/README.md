@@ -48,7 +48,7 @@ All three versions will be parametrically instantiated via gLayout, enabling on-
 - Proposal Slides: [here](https://docs.google.com/presentation/d/1ZooMX9Att2mCr0K19jeGHpoaXq7p1V3HSQcLWzNX5dM/edit?usp=sharing)
 - Proposal in Google Docs: [here](https://docs.google.com/document/d/1FZdyJ7MXu66QQ6_0kkzPwPryskKX2VRuOPmt5tDAb5Y/edit?usp=sharing)
 - Proposal in GitHub: [here](https://github.com/Sud-ana/gLayout-mahowalders/blob/main/blocks/composite/regulated_cascoded_cmirror/design_proposal/README.md)
-- GDS submission Pull Request: 
+- GDS submission Pull Request: https://github.com/sscs-ose/sscs-chipathon-2025/pull/116
 - Pull Request: https://github.com/ReaLLMASIC/gLayout/pull/32
 
 ### Link to process tracker
