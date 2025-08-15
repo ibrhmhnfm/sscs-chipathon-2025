@@ -30,7 +30,7 @@ This document outlines the official schedule for the SSCS Chipathon 2025 event.
 |------|------|-------|--------------|:-----------:|:--------:|:------:|
 | Week 31 | Aug 01, 2025 | **Schematic Review** 👥 | Analog/Digital | [Watch](https://us06web.zoom.us/rec/share/p0jE_9SbLtquE3jgz5f4MlLN4MUIzmOE0zdEOBf3kgjg-9m0GbItzKdzfc_UzO-g.mLbegz4apQ4PFxjQ) | [View](https://docs.google.com/presentation/d/e/2PACX-1vRMquxfD6DVTjLuMtk1UB2YeQHqgORe_Cv_0tz7r5TTU9yvgOa6I1UoYuCqmu6ztw/pub) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSfdOuIBfAT_cqEVqi8wshiHRz4GPTJKxGNvxMj4-cpRXGiltg/viewform?usp=dialog) |
 | Week 32 | Aug 08, 2025 | **Schematic Review** 👥 | MOSbius/Digital | [Watch](https://us06web.zoom.us/rec/share/ORSWmiddpCs5T9CGM6tQVovD4s0u0C3MKrHkAl5VLJP1E9wVRC_MspwHO8bI80tX.jWrVfDgpexqLTpyT) | [View](https://docs.google.com/presentation/d/e/2PACX-1vSvKHp4NdmT8223YVO3bFwMaIkDNg6h7SIFRP12tKg_-LowIBmo_JbTeWvibgzcYw/pub) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSflAYyGG0H3sWGesVYqaY8In_efdf7Nix5FF-OXXB3Xgq4r3A/viewform?usp=dialog) |
-| Week 33 | Aug 15, 2025 | **Simulation Review (top level)** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
+| Week 33 | Aug 15, 2025 | **Dry Run Integration** 👥 | - | [TBA]() | [View](https://docs.google.com/presentation/d/e/2PACX-1vQ8ByuFxioZndxhcg1BBdNJSoJnkQPkg8JaqueGTyS7kA5dNiyIoryqb7YhUIHSag/pub) | [TBA]() |
 |  | Aug 16, 2025 | **READiness Check & Go/No-go Decision** |  |  |  |  |
 
 ### Phase 4: Layout and Verification
