@@ -1,4 +1,5 @@
 ## PIN list 
+[Drive link](https://docs.google.com/spreadsheets/d/1SRkvgSZW0N-JtozHN9ZysCXeTyX7PkvXT4Aw9KuIg04/edit?usp=sharing)
 | Pin no. |   Name   |      Type       |   Direction    |
 |---------|----------|-----------------|----------------|
 |    1    |   VDD    |    3.3V power   | Bi-directional |
