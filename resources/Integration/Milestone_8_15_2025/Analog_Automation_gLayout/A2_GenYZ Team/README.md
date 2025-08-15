@@ -1,3 +1,4 @@
+# A2: GenYZ Team - Low Mismatch 4 Channels EEG
 ![Pin](PinUpdate4.jpg)
 <h4 align="center" style="font-size:16px;">Figure 1. Chip Architecture</h4>
 
@@ -44,8 +45,15 @@
 
 </div>
 
-![Padframe](Padframe.jpg)
+<p align="center">
+  <img src="Padframe.jpg" alt="Padframe" width="400"/>
+</p>
 <h4 align="center" style="font-size:16px;">Figure 2. Padframe Plan</h4>
 
-![GlobalFloorplan](GlobalFloorplan.jpg)
+<p align="center">
+  <img src="GlobalFloorplan.jpg" alt="GlobalFloorplan" width="400"/>
+</p>
 <h4 align="center" style="font-size:16px;">Figure 3. Global Floorplan</h4>
+
+## [Schematic LINK](https://docs.google.com/presentation/d/1kNgLQThWXaCni-vkcCLg6w5ka_MsdFm6/edit?usp=sharing&ouid=116407328769258810358&rtpof=true&sd=true)
+## [Pin Out and Estimated Size LINK](https://docs.google.com/presentation/d/1cSExF_oWfgUHp68OI7aJ_KQCyFGSLcmTJefTA7A_Y4U/edit?slide=id.g3750dbd350b_2_0#slide=id.g3750dbd350b_2_0)
