@@ -1,4 +1,4 @@
-![Pin](PinUpdate2.jpg)
+![Pin](PinUpdate3.jpg)
 <h4 align="center" style="font-size:16px;">Figure 1. Chip Architecture</h4>
 
 <h4 align="center" style="font-size:16px;">Table 1. Pin Out</h4>
