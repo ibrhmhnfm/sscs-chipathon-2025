@@ -1,4 +1,4 @@
-![Pin](PinUpdate3.jpg)
+![Pin](PinUpdate4.jpg)
 <h4 align="center" style="font-size:16px;">Figure 1. Chip Architecture</h4>
 
 <h4 align="center" style="font-size:16px;">Table 1. Pin Out</h4>
@@ -16,7 +16,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td align="center">1</td><td>AVDD</td><td>3V Power</td><td>Bidirectional</td><td>Analog Supply Voltage</td></tr>
+    <tr><td align="center">1</td><td>AVDD</td><td>3V3 Power</td><td>Bidirectional</td><td>Analog Supply Voltage</td></tr>
     <tr><td align="center">2</td><td>AVSS</td><td>Ground</td><td>Bidirectional</td><td>Analog Ground</td></tr>
     <tr><td align="center">3</td><td>VDD</td><td>5V Power</td><td>Bidirectional</td><td>Digital Supply Voltage</td></tr>
     <tr><td align="center">4</td><td>VSS</td><td>Ground</td><td>Bidirectional</td><td>Digital Ground</td></tr>
@@ -43,3 +43,9 @@
 </table>
 
 </div>
+
+![Padframe](Padframe.jpg)
+<h4 align="center" style="font-size:16px;">Figure 2. Padframe Plan</h4>
+
+![GlobalFloorplan](GlobalFloorplan.jpg)
+<h4 align="center" style="font-size:16px;">Figure 3. Global Floorplan</h4>
