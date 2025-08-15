@@ -1,3 +1,1 @@
-Place the GDS file with the following nomenclature in this folder: M10_RAZAVUS.gds
-
-Also, update the README.md file to include the pin list and pin description.
+pin list : https://docs.google.com/spreadsheets/d/1ihq9DLaxf77A22eylFtpDfQRq1X3if69aSoamc0Y-gU/edit?usp=sharing
