@@ -198,4 +198,4 @@ Here is a list of the DRC errors that we could waive after checking with the fou
    <img src="./img/DRC_waived.png" width="600" />
 </p> 
 
-(Here)[https://docs.google.com/presentation/d/1SNwQ3wkQzGrByPWjSO483T4Ja2Eb9Euy5H0Ygm34oV4/edit?usp=sharing] you can find a template for the gf180mcu padring.
+[Here](https://docs.google.com/presentation/d/1banxCIOqAh-Q1bHQZCd3pS0ioIPygH4U7oJaOUsFYaw) you can find a template for the gf180mcu padring.
