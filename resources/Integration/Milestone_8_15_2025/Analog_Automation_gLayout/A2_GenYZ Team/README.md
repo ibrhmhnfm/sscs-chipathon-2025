@@ -1,59 +1,10 @@
 # A2: GenYZ Team - Low Mismatch 4 Channels EEG
+
+[Pin List](https://docs.google.com/spreadsheets/d/1RcXbY3-Z_9W2Oks1J88uDMK3sVfhn4uYAb-6Ts39JXk/edit?gid=0#gid=0)
+
 ![Pin](PinUpdate4.jpg)
 <h4 align="center" style="font-size:16px;">Figure 1. Chip Architecture</h4>
 
-<h4 align="center" style="font-size:16px;">Table 1. Pin Out</h4>
 
-<div align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th><b>Pin</b></th>
-      <th><b>Name</b></th>
-      <th><b>Type</b></th>
-      <th><b>Direction</b></th>
-      <th><b>Description</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td align="center">1</td><td>AVDD</td><td>3V3 Power</td><td>Bidirectional</td><td>Analog Supply Voltage</td></tr>
-    <tr><td align="center">2</td><td>AVSS</td><td>Ground</td><td>Bidirectional</td><td>Analog Ground</td></tr>
-    <tr><td align="center">3</td><td>VDD</td><td>5V Power</td><td>Bidirectional</td><td>Digital Supply Voltage</td></tr>
-    <tr><td align="center">4</td><td>VSS</td><td>Ground</td><td>Bidirectional</td><td>Digital Ground</td></tr>
-    <tr><td align="center">5</td><td>IN1P</td><td>Analog</td><td>Input</td><td>Channel 1 Analog Positive Input</td></tr>
-    <tr><td align="center">6</td><td>IN1N</td><td>Analog</td><td>Input</td><td>Channel 1 Analog Negative Input</td></tr>
-    <tr><td align="center">7</td><td>IN2P</td><td>Analog</td><td>Input</td><td>Channel 2 Analog Positive Input</td></tr>
-    <tr><td align="center">8</td><td>IN2N</td><td>Analog</td><td>Input</td><td>Channel 2 Analog Negative Input</td></tr>
-    <tr><td align="center">9</td><td>IN3P</td><td>Analog</td><td>Input</td><td>Channel 3 Analog Positive Input</td></tr>
-    <tr><td align="center">10</td><td>IN3N</td><td>Analog</td><td>Input</td><td>Channel 3 Analog Negative Input</td></tr>
-    <tr><td align="center">11</td><td>IN4P</td><td>Analog</td><td>Input</td><td>Channel 4 Analog Positive Input</td></tr>
-    <tr><td align="center">12</td><td>IN4N</td><td>Analog</td><td>Input</td><td>Channel 4 Analog Negative Input</td></tr>
-    <tr><td align="center">13</td><td>OUT1P</td><td>Analog</td><td>Output</td><td>Channel 1 Analog Positive Output</td></tr>
-    <tr><td align="center">14</td><td>OUT1N</td><td>Analog</td><td>Output</td><td>Channel 1 Analog Negative Output</td></tr>
-    <tr><td align="center">15</td><td>OUT2P</td><td>Analog</td><td>Output</td><td>Channel 2 Analog Positive Output</td></tr>
-    <tr><td align="center">16</td><td>OUT2N</td><td>Analog</td><td>Output</td><td>Channel 2 Analog Negative Output</td></tr>
-    <tr><td align="center">17</td><td>OUT3P</td><td>Analog</td><td>Output</td><td>Channel 3 Analog Positive Output</td></tr>
-    <tr><td align="center">18</td><td>OUT3N</td><td>Analog</td><td>Output</td><td>Channel 3 Analog Negative Output</td></tr>
-    <tr><td align="center">19</td><td>OUT4P</td><td>Analog</td><td>Output</td><td>Channel 4 Analog Positive Output</td></tr>
-    <tr><td align="center">20</td><td>OUT4N</td><td>Analog</td><td>Output</td><td>Channel 4 Analog Negative Output</td></tr>
-    <tr><td align="center">21</td><td>VBIAS</td><td>Analog</td><td>Bidirectional</td><td>Biasing Voltage for Analog and Digital Components</td></tr>
-    <tr><td align="center">22</td><td>CLK</td><td>Digital</td><td>Input</td><td>Clock as Digital Controller for Chopper Switches, etc.</td></tr>
-    <tr><td align="center">23</td><td>VCM</td><td>Analog</td><td>Bidirectional</td><td>Common Mode Voltage</td></tr>
-  </tbody>
-</table>
 
-</div>
-
-<p align="center">
-  <img src="Padframe.jpg" alt="Padframe" width="400"/>
-</p>
-<h4 align="center" style="font-size:16px;">Figure 2. Padframe Plan</h4>
-
-<p align="center">
-  <img src="GlobalFloorplan.jpg" alt="GlobalFloorplan" width="400"/>
-</p>
-<h4 align="center" style="font-size:16px;">Figure 3. Global Floorplan</h4>
-
-## [Schematic LINK](https://docs.google.com/presentation/d/1kNgLQThWXaCni-vkcCLg6w5ka_MsdFm6/edit?usp=sharing&ouid=116407328769258810358&rtpof=true&sd=true)
-## [Pin Out and Estimated Size LINK](https://docs.google.com/presentation/d/1cSExF_oWfgUHp68OI7aJ_KQCyFGSLcmTJefTA7A_Y4U/edit?slide=id.g3750dbd350b_2_0#slide=id.g3750dbd350b_2_0)
