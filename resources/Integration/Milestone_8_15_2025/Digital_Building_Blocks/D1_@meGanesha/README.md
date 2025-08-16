@@ -1,4 +1,3 @@
 # Pin List
 
-S1, S2, A, B, C, D: input
-Y: output
+https://docs.google.com/spreadsheets/d/1WddKdANEaK-DFs5UlxI1hqBC56xOLAN4dxt9oNqjuUs/edit?usp=sharing
