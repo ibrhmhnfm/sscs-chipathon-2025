@@ -1,3 +1,4 @@
-Place the GDS file with the following nomenclature in this folder: D1_@meGanesha.gds
+# Pin List
 
-Also, update the README.md file to include the pin list and pin description.
+S1, S2, A, B, C, D: input
+Y: output
