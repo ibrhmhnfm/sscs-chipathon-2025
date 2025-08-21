@@ -2,7 +2,6 @@
 
 ## Links
 - [Pin List](https://docs.google.com/spreadsheets/d/1_3lQBcbkPWE0qjfvSXVyYYxNycXKxWRLHg75SAif4VQ/edit?gid=530173844#gid=530173844)
-- [Pin Map]()
 - [Area Estimation](https://github.com/assaify/creactive-chipathon-2025/blob/main/docs/layout/README.md)
 
 ## External Pin
