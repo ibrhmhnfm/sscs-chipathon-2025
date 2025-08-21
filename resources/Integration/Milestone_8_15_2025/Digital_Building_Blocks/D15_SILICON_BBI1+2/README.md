@@ -7,7 +7,6 @@
 
 | Cell | Strength | Track | Input | Output |
 |----------|----------|----------|---------|----------|
-|  `lshifup`  | 1X | 5V_7T | A | Y |
 | `3-inp NAND`     | 1X | 12T | A/B/C | Y |
 | `3-inp NOR`    | 1X  | 9T |  A/B/C | Y |
 | `3-inp NOR`     | 1X  |  12T |  A/B/C | Y |
