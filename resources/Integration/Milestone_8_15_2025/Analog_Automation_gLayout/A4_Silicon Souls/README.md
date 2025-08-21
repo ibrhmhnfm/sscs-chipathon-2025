@@ -14,4 +14,4 @@
 |   10    |  Vout270 |     Analog      |     Output     |
 
 ## Area
-Estimate - 120u x 120u (+- 20%)
+Estimate - 120u x 140u (+- 20%)
